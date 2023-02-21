@@ -1,0 +1,2210 @@
+[
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "001-009",
+      "depth": 2,
+      "descr": "INTESTINAL INFECTIOUS DISEASES "
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "010-018",
+      "depth": 2,
+      "descr": "Tuberculosis"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "020-027",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "030-041",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "042",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "045-049",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "050-059",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "060-066",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "070-079",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "080-088",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "090-099",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "100-104",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "110-118",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "120-129",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "130-136",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "001-139",
+      "depth": 1,
+      "descr": "INFECTIOUS AND PARASITIC DISEASES "
+    },
+    {
+      "code": "137-139",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "140-149",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "150-159",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "160-165",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "170-176",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "179-189",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "190-199",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "200-209",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "210-229",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "230-234",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "235-238",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "140-239",
+      "depth": 1,
+      "descr": "Neoplasms"
+    },
+    {
+      "code": "239",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "240-279",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "240-246",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "240-279",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "249-259",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "240-279",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "260-269",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "240-279",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "270-279",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "280",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "281",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "282",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "283",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "284",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "285",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "286",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "287",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "288",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "280-289",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "289",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "290-319",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "290-294",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "290-319",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "295-299",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "290-319",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "300-316",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "290-319",
+      "depth": 1,
+      "descr": "Endocrine, Nutritional And Metabolic Diseases, And Immunity Disorders"
+    },
+    {
+      "code": "317-319",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "320-389",
+      "depth": 1,
+      "descr": "Diseases Of The Nervous System And Sense Organs"
+    },
+    {
+      "code": "320-327",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "320-389",
+      "depth": 1,
+      "descr": "Diseases Of The Nervous System And Sense Organs"
+    },
+    {
+      "code": "330-337",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "320-389",
+      "depth": 1,
+      "descr": "Diseases Of The Nervous System And Sense Organs"
+    },
+    {
+      "code": "338",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "320-389",
+      "depth": 1,
+      "descr": "Diseases Of The Nervous System And Sense Organs"
+    },
+    {
+      "code": "339",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "320-389",
+      "depth": 1,
+      "descr": "Diseases Of The Nervous System And Sense Organs"
+    },
+    {
+      "code": "340-349",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "320-389",
+      "depth": 1,
+      "descr": "Diseases Of The Nervous System And Sense Organs"
+    },
+    {
+      "code": "350-359",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "320-389",
+      "depth": 1,
+      "descr": "Diseases Of The Nervous System And Sense Organs"
+    },
+    {
+      "code": "360-379",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "320-389",
+      "depth": 1,
+      "descr": "Diseases Of The Nervous System And Sense Organs"
+    },
+    {
+      "code": "380-389",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "390-459",
+      "depth": 1,
+      "descr": "Diseases Of The Circulatory System"
+    },
+    {
+      "code": "390-392",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "390-459",
+      "depth": 1,
+      "descr": "Diseases Of The Circulatory System"
+    },
+    {
+      "code": "393-398",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "390-459",
+      "depth": 1,
+      "descr": "Diseases Of The Circulatory System"
+    },
+    {
+      "code": "401-405",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "390-459",
+      "depth": 1,
+      "descr": "Diseases Of The Circulatory System"
+    },
+    {
+      "code": "410-414",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "390-459",
+      "depth": 1,
+      "descr": "Diseases Of The Circulatory System"
+    },
+    {
+      "code": "415-417",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "390-459",
+      "depth": 1,
+      "descr": "Diseases Of The Circulatory System"
+    },
+    {
+      "code": "420-429",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "390-459",
+      "depth": 1,
+      "descr": "Diseases Of The Circulatory System"
+    },
+    {
+      "code": "430-438",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "390-459",
+      "depth": 1,
+      "descr": "Diseases Of The Circulatory System"
+    },
+    {
+      "code": "440-449",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "390-459",
+      "depth": 1,
+      "descr": "Diseases Of The Circulatory System"
+    },
+    {
+      "code": "451-459",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "460-519",
+      "depth": 1,
+      "descr": "Diseases Of The Respiratory System"
+    },
+    {
+      "code": "460-466",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "460-519",
+      "depth": 1,
+      "descr": "Diseases Of The Respiratory System"
+    },
+    {
+      "code": "470-478",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "460-519",
+      "depth": 1,
+      "descr": "Diseases Of The Respiratory System"
+    },
+    {
+      "code": "480-488",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "460-519",
+      "depth": 1,
+      "descr": "Diseases Of The Respiratory System"
+    },
+    {
+      "code": "490-496",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "460-519",
+      "depth": 1,
+      "descr": "Diseases Of The Respiratory System"
+    },
+    {
+      "code": "500-508",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "460-519",
+      "depth": 1,
+      "descr": "Diseases Of The Respiratory System"
+    },
+    {
+      "code": "510-519",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "520-579",
+      "depth": 1,
+      "descr": "Diseases Of The Digestive System"
+    },
+    {
+      "code": "520-529",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "520-579",
+      "depth": 1,
+      "descr": "Diseases Of The Digestive System"
+    },
+    {
+      "code": "530-539",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "520-579",
+      "depth": 1,
+      "descr": "Diseases Of The Digestive System"
+    },
+    {
+      "code": "540-543",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "520-579",
+      "depth": 1,
+      "descr": "Diseases Of The Digestive System"
+    },
+    {
+      "code": "550-553",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "520-579",
+      "depth": 1,
+      "descr": "Diseases Of The Digestive System"
+    },
+    {
+      "code": "555-558",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "520-579",
+      "depth": 1,
+      "descr": "Diseases Of The Digestive System"
+    },
+    {
+      "code": "560-569",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "520-579",
+      "depth": 1,
+      "descr": "Diseases Of The Digestive System"
+    },
+    {
+      "code": "570-579",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "580-629",
+      "depth": 1,
+      "descr": "Diseases Of The Genitourinary System"
+    },
+    {
+      "code": "580-589",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "580-629",
+      "depth": 1,
+      "descr": "Diseases Of The Genitourinary System"
+    },
+    {
+      "code": "590-599",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "580-629",
+      "depth": 1,
+      "descr": "Diseases Of The Genitourinary System"
+    },
+    {
+      "code": "600-608",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "580-629",
+      "depth": 1,
+      "descr": "Diseases Of The Genitourinary System"
+    },
+    {
+      "code": "610-612",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "580-629",
+      "depth": 1,
+      "descr": "Diseases Of The Genitourinary System"
+    },
+    {
+      "code": "614-616",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "580-629",
+      "depth": 1,
+      "descr": "Diseases Of The Genitourinary System"
+    },
+    {
+      "code": "617-629",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "630-679",
+      "depth": 1,
+      "descr": "Complications Of Pregnancy, Childbirth, And The Puerperium"
+    },
+    {
+      "code": "630-639",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "630-679",
+      "depth": 1,
+      "descr": "Complications Of Pregnancy, Childbirth, And The Puerperium"
+    },
+    {
+      "code": "640-649",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "630-679",
+      "depth": 1,
+      "descr": "Complications Of Pregnancy, Childbirth, And The Puerperium"
+    },
+    {
+      "code": "650-659",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "630-679",
+      "depth": 1,
+      "descr": "Complications Of Pregnancy, Childbirth, And The Puerperium"
+    },
+    {
+      "code": "660-669",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "630-679",
+      "depth": 1,
+      "descr": "Complications Of Pregnancy, Childbirth, And The Puerperium"
+    },
+    {
+      "code": "670-677",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "630-679",
+      "depth": 1,
+      "descr": "Complications Of Pregnancy, Childbirth, And The Puerperium"
+    },
+    {
+      "code": "678-679",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "680-709",
+      "depth": 1,
+      "descr": "Complications Of Pregnancy, Childbirth, And The Puerperium"
+    },
+    {
+      "code": "680-686",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "680-709",
+      "depth": 1,
+      "descr": "Complications Of Pregnancy, Childbirth, And The Puerperium"
+    },
+    {
+      "code": "690-698",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "680-709",
+      "depth": 1,
+      "descr": "Complications Of Pregnancy, Childbirth, And The Puerperium"
+    },
+    {
+      "code": "700-709",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "710-739",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "710-719",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "710-739",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "720-724",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "710-739",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "725-729",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "710-739",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "730-739",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "740",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "741",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "742",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "743",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "744",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "745",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "746",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "747",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "748",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "749",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "750",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "751",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "752",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "753",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "754",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "755",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "756",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "757",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "758",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "740-759",
+      "depth": 1,
+      "descr": "Diseases Of The Musculoskeletal System And Connective Tissue"
+    },
+    {
+      "code": "759",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "760-779",
+      "depth": 1,
+      "descr": "Certain Conditions Originating In The Perinatal Period "
+    },
+    {
+      "code": "760-763",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "760-779",
+      "depth": 1,
+      "descr": "Certain Conditions Originating In The Perinatal Period "
+    },
+    {
+      "code": "764-779",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "780-799",
+      "depth": 1,
+      "descr": "Symptoms, Signs, And Ill-Defined Conditions"
+    },
+    {
+      "code": "780-789",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "780-799",
+      "depth": 1,
+      "descr": "Symptoms, Signs, And Ill-Defined Conditions"
+    },
+    {
+      "code": "790-796",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "780-799",
+      "depth": 1,
+      "descr": "Symptoms, Signs, And Ill-Defined Conditions"
+    },
+    {
+      "code": "797-799",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "800-804",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "805-809",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "810-819",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "820-829",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "830-839",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "840-848",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "850-854",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "860-869",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "870-879",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "880-887",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "890-897",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "900-904",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "905-909",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "910-919",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "920-924",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "925-929",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "930-939",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "940-949",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "950-957",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "958-959",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "960-979",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "980-989",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "990-995",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "800-999",
+      "depth": 1,
+      "descr": "Injury And Poisoning"
+    },
+    {
+      "code": "996-999",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V01-V09",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V10-V19",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V20-V29",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V30-V39",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V40-V49",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V50-V59",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V60-V69",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V70-V82",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V83-V84",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V85",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V86",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V87",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V88",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V89",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V90",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "V01-V91",
+      "depth": 1,
+      "descr": "Supplementary Classification Of Factors Influencing Health Status And Contact With Health Services"
+    },
+    {
+      "code": "V91",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E000",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E001-E030",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E800-E807",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E810-E819",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E820-E825",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E826-E829",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E830-E838",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E840-E845",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E846-E849",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E850-E858",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E860-E869",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E870-E876",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E878-E879",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E880-E888",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E890-E899",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E900-E909",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E910-E915",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E916-E928",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E929",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E930-E949",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E950-E959",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E960-E969",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E970-E979",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E980-E989",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ],
+  [
+    {
+      "code": "E0000-E999",
+      "depth": 1,
+      "descr": "Supplementary Classification Of External Causes Of Injury And Poisoning"
+    },
+    {
+      "code": "E990-E999",
+      "depth": 2,
+      "descr": "add later"
+    }
+  ]
+]
